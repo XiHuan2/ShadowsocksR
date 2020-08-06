@@ -1,11 +1,13 @@
 
-! 使用本项目前，请您阅读[README]（README.md）和[License]（#license)
+> 使用本项目前，请您阅读[README]（README.md）和[License]（#license)
 
 
-!* 您在使用本项目  XiHuan2/Node  必须知道以下:
+>* 您在使用本项目  XiHuan2/Node  必须知道以下:
 * 1.本项目所共享的节点都是基于 ShadowsockR 的!
 * 2.您在使用之前,遵守您在当地的法律!!!
 * 3.本项目只管共享,如有意见请反馈到 167599721@qq.com !
+
+## 节点 鸭 ~
 
 * 日本节点
 ssr://NS4xODAuNzYuNTg6MjMzMzpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPVNtRndZVzR0TlM0eE9EQXVOell1TlRnJmdyb3VwPVNIUjBjSE02THk5SGFYUm9kV0l1WTI5dEwxaHBTSFZoYmpJdlRtOWtaUQ
