@@ -1,3 +1,4 @@
+>如果本项目对你有帮助,请您点个Star再走......
 
 > 使用本项目前，请您阅读[README]（README.md）和[License]（#license)
 
@@ -6,6 +7,7 @@
 * 1.本项目所共享的节点都是基于 ShadowsockR 的!
 * 2.您在使用之前,遵守您在当地的法律!!!
 * 3.本项目只管共享,如有意见请反馈到 167599721@qq.com !
+
 
 ## 节点 鸭 ~
 
@@ -35,8 +37,6 @@ ssr://OTEuMjA2LjkyLjM4OjM2MTA6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dhMnM0Lz9vYm
 ssr://OTEuMjIwLjIwMy4yMjk6MzYxMDpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05IbHUvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NzZPNVp1OTVZcWc1WWlwNTZhUDViQzg1THFhNWJlZTVyU2I1cDJKNTUtMlRUSTBOLWU5a2VlN25ESXlPUSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ
 ssr://NDUuMTQ2LjEyMS4zMDozNjEwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTkhsdS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3Nk81WnU5SURNdyZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ
 ssr://OTEuMjIwLjIwMy4xMjozNjEwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTkhsdS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3Nk81WnU5NVlxZzVZaXA1NmFQNWJDODVMcWE1YmVlNXJTYjVwMko1NS0yVFRJME4tZTlrZWU3bkRFeSZncm91cD1aMmwwYUhWaUxtTnZiUzltY21WbFpuRQ
-
-
 
 
 * 更新时间:GMT +8:00  2020/08/06  14:00
